@@ -1,2 +1,2 @@
 # Read Me
-- Here
+- https://github.com/izmnull/note/wiki
